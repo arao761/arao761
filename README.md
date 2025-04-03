@@ -19,6 +19,3 @@
 
 ## 🔜 Incoming at HHMI
 - 🧬 **Research Intern** for Dr. SGRO’s Lab, focusing on how cells are interconnected.
-
-## 📫 Connect with Me
-[![LinkedIn]](https://www.linkedin.com/in/ankit-rao-781a0b290/)
