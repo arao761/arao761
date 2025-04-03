@@ -18,4 +18,4 @@
 - 🏗️ Developed **CAD models** and fabricated using **FDM 3D printing**.
 
 ## 🔜 Incoming at HHMI
-- 🧬 **Research Intern** for Dr. SGRO’s Lab, focusing on how cells are interconnected.
+- 🧬 **Research Intern** for Dr. Sgro’s Lab, focusing on how cells are interconnected.
