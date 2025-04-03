@@ -21,4 +21,4 @@
 - 🧬 **Research Intern** for Dr. SGRO’s Lab, focusing on how cells are interconnected.
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ankit-rao-781a0b290/)
+[![LinkedIn]](https://www.linkedin.com/in/ankit-rao-781a0b290/)
