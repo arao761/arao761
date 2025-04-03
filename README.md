@@ -18,9 +18,7 @@
 - 🏗️ Developed **CAD models** and fabricated using **FDM 3D printing**.
 
 ## 🔜 Incoming at HHMI
-- 🧬 **Research Intern** for Dr. SGRO’s Lab, focusing on how **cells are interconnected**.
+- 🧬 **Research Intern** for Dr. SGRO’s Lab, focusing on how cells are interconnected.
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](your-github-url)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ankit-rao-781a0b290/)
