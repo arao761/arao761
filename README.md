@@ -5,8 +5,7 @@
 ### 🌍 Kashmir World Foundation (KwF)
 - 🧠 Developed a **Siamese Neural Network (SNN)** for Brazilian Tapir identification.
 - 🎯 Optimized real-time wildlife detection with **YOLOv8** and **TensorFlow Lite**.
-- 🚁 Enabled **autonomous drone-based wildlife monitoring**.
-
+  
 ### 🛣️ LaneGuard
 - 🔍 Built a **CNN-based system** to detect lane departures and enhance road safety.
 - 🛠️ Used **Canny Edge Detection, Hough Transform, and Gaussian Blur** for preprocessing.
