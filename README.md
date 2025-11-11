@@ -1,15 +1,20 @@
-# Hi, I'm Ankit Rao 👋
+# 👋 Hi, I'm Ankit Rao
 
-## 🚀 Experience
+I'm a Computer Science student at the University of Virginia passionate about developing intelligent systems that merge software, data, and the physical world. My interests span computer vision, machine learning, and scalable software design, all focused on creating tools that make technology more human-centered and accessible.
 
-### 🌍 Kashmir World Foundation (KwF)
-- 🧠 Developed a **Siamese Neural Network (SNN)** for Brazilian Tapir identification.
-- 🎯 Optimized real-time wildlife detection with **YOLOv8** and **TensorFlow Lite**.
+### 💡 What I Enjoy
+- Building real-time systems that blend hardware and AI  
+- Exploring distributed computing and efficient data pipelines  
+- Designing intuitive, impactful user experiences
 
-### 🦾 3D-Printed Prosthetic Finger
-- 🤖 Designed a **CNN-RNN hybrid model** to interpret **EMG signals** for prosthetic control.
-- 🔌 Integrated **EMG sensors and servo motors** for real-time movement.
-- 🏗️ Developed **CAD models** and fabricated using **FDM 3D printing**.
+### ⚙️ Languages & Tools
+`Python` • `C++` • `Java` • `TypeScript` • `React` • `TensorFlow` • `PyTorch` • `OpenCV` • `Docker` • `AWS`
 
-## HHMI
-- 🧬 **Research Intern** for Dr. Sgro’s Lab
+### 🌱 Currently Exploring
+- Neural rendering and 3D vision  
+- Real-time optimization for edge AI systems  
+- Scalable cloud architectures for data-heavy applications  
+
+---
+
+> “I believe in building technology that empowers, not replaces, human capability.”
